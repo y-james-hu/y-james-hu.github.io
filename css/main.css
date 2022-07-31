@@ -45,3 +45,9 @@ ul.posts li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-width: 70%;
+}
