@@ -1,2 +1,2 @@
-# jameshu.github.io
+# y-james-hu.github.io
 Personal website
