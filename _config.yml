@@ -1,2 +1,3 @@
-	name: James Hu
-	markdown: kramdown
+name: James Hu
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
