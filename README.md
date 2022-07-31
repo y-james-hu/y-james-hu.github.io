@@ -1,2 +1,2 @@
 # y-james-hu.github.io
-Personal website
+Personal website created with the help of http://jmcglone.com/guides/github-pages/
