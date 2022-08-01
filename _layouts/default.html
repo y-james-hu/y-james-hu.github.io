@@ -5,9 +5,15 @@
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-			{% if site.google_analytics and jekyll.environment == 'production' %}
-			{% include analytics.html %}
-			{% endif %}
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-PY3ZXLR5TH"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+
+			  gtag('config', 'G-PY3ZXLR5TH');
+			</script>
 		</head>
 		<body>
 			<nav>
