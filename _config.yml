@@ -1,3 +1,5 @@
 name: James Hu
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+# Google Analytics
+google_analytics: G-PY3ZXLR5TH
