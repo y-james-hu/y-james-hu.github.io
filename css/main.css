@@ -95,11 +95,12 @@
     font-display: swap;
 }
 body {
+    font-family: ArizonaText;
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
+    font-family: ArizonaText;
     padding: 0px;
     list-style: none;
     font-weight: 400;
@@ -117,41 +118,41 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
+    font-family: ArizonaFlare;
 }
 h2 {
     font-size: 2em;
-    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
+    font-family: ArizonaFlare;
 }
 h3 {
     font-size: 1.2em;
-    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
+    font-family: ArizonaFlare;
 }
 h4 {
     font-size: 1.2em;
-    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
+    font-family: ArizonaFlare;
     margin-bottom: -1em;
 }
 p {
     font-size: 1.2em;
-    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
+    font-family: ArizonaText;
     line-height: 1.3em;
     color: #333;
 }
 footer {
-    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
+    font-family: ArizonaText;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
-    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
+    font-family: ArizonaText;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
-    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
+    font-family: ArizonaText;
     list-style: none;
 }
 img {
