@@ -8,6 +8,7 @@
         url('fonts/ABCArizonaText-Light.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 400;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
   font-family: 'ArizonaText';
@@ -19,6 +20,7 @@
         url('fonts/ABCArizonaText-LightItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 400;
     font-style: italic;
+    font-display: swap;
 }
 @font-face {
   font-family: 'ArizonaText';
@@ -30,6 +32,7 @@
         url('fonts/ABCArizonaText-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 700;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
   font-family: 'ArizonaText';
@@ -41,6 +44,7 @@
         url('fonts/ABCArizonaText-MediumItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 700;
     font-style: italic;
+    font-display: swap;
 }
 @font-face {
   font-family: 'ArizonaFlare';
@@ -52,6 +56,7 @@
         url('fonts/ABCArizonaFlare-Light.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 400;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
   font-family: 'ArizonaFlare';
@@ -63,6 +68,7 @@
         url('fonts/ABCArizonaFlare-LightItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 400;
     font-style: italic;
+    font-display: swap;
 }
 @font-face {
   font-family: 'ArizonaFlare';
@@ -74,6 +80,7 @@
         url('fonts/ABCArizonaFlare-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 700;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
   font-family: 'ArizonaFlare';
@@ -85,8 +92,8 @@
         url('fonts/ABCArizonaFlare-MediumItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
     font-weight: 700;
     font-style: italic;
+    font-display: swap;
 }
-
 body {
     margin: 60px auto;
     width: 70%;
@@ -110,41 +117,41 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
 }
 h2 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
 }
 h3 {
     font-size: 1.2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
 }
 h4 {
     font-size: 1.2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaFlare', 'Arial', 'Sans-Serif';
     margin-bottom: -1em;
 }
 p {
     font-size: 1.2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
     line-height: 1.3em;
     color: #333;
 }
 footer {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'ArizonaText', 'Arial', 'Sans-Serif';
     list-style: none;
 }
 img {
