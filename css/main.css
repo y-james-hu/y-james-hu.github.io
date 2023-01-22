@@ -130,12 +130,12 @@ h3 {
 }
 h4 {
     font-size: 1.2em;
-    font-family: ArizonaFlare, Arial;
+    font-family: ArizonaText, Arial;
     margin-bottom: -1em;
 }
 p {
     font-size: 1.2em;
-    font-family: ArizonaFlare, Arial;
+    font-family: ArizonaText, Arial;
     line-height: 1.3em;
     color: #333;
 }
@@ -146,13 +146,13 @@ footer {
 }
 
 ul.posts { 
-    font-family: ArizonaFlare, Arial;
+    font-family: ArizonaText, Arial;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
-    font-family: ArizonaFlare, Arial;
+    font-family: ArizonaText, Arial;
     list-style: none;
 }
 img {
