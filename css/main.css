@@ -1,3 +1,92 @@
+@font-face {
+  font-family: 'ArizonaText';
+    src: url('fonts/ABCArizonaText-Light.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaText-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaText-Light.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaText-Light.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaText-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaText-Light.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'ArizonaText';
+    src: url('fonts/ABCArizonaText-LightItalic.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaText-LightItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaText-LightItalic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaText-LightItalic.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaText-LightItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaText-LightItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+  font-family: 'ArizonaText';
+    src: url('fonts/ABCArizonaText-Medium.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaText-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaText-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaText-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaText-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaText-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'ArizonaText';
+    src: url('fonts/ABCArizonaText-MediumItalic.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaText-MediumItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaText-MediumItalic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaText-MediumItalic.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaText-MediumItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaText-MediumItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+  font-family: 'ArizonaFlare';
+    src: url('fonts/ABCArizonaFlare-Light.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaFlare-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaFlare-Light.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaFlare-Light.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaFlare-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaFlare-Light.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'ArizonaFlare';
+    src: url('fonts/ABCArizonaFlare-LightItalic.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaFlare-LightItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaFlare-LightItalic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaFlare-LightItalic.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaFlare-LightItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaFlare-LightItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+  font-family: 'ArizonaFlare';
+    src: url('fonts/ABCArizonaFlare-Medium.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaFlare-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaFlare-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaFlare-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaFlare-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaFlare-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'ArizonaFlare';
+    src: url('fonts/ABCArizonaFlare-MediumItalic.eot'); /* IE9 Compat Modes */
+    src: url('fonts/ABCArizonaFlare-MediumItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/ABCArizonaFlare-MediumItalic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/ABCArizonaFlare-MediumItalic.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/ABCArizonaFlare-MediumItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/ABCArizonaFlare-MediumItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: italic;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
